@@ -4,3 +4,5 @@ Date: 09/09/2107
 This is my first text document for one of Dr. Musick’s Media arts courses.
 
 I added a new line to this file in my text editor!!!
+I added this new line to this file in my test editor!!!
+I just added a new one, now I'm done!!!
