@@ -13,4 +13,4 @@ I spent a lot of time on this assignment, so I didn't have time to help out any 
 
 I'm still enjoying this class overall, it's just getting harder.  And despite the difficulties I have faced, I feel that I have taken the next step forward into digital art.  And I hope to get more use to it all in the future.
 
-Link to my animation.
+[Link to my animation.](https://jaketheflare.github.io/120-work/hw-5/)
