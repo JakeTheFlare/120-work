@@ -1,6 +1,7 @@
-Your Name, Your Section Number
+# Jacob Williams 50
+## Markdown for Week 7
 
-[Live Sketch Link](Your Live Link)
+[Live Sketch Link](https://jaketheflare.github.io/120-work/HW-7/)
 
 
 # HW 7 | Describe then Alter the Bouncing Ball
