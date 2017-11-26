@@ -8,5 +8,8 @@ I tried everything for this week.  I read over all of the website content multip
 I tried sharing some of my issues on the homework wiki, though not even my fellow students had the right/ perfect answers that could help me.  I have not helped with any issues for this week.
 
 In conclusion, this was not a perfect week.  If only I took a little more time to read over and understand the math functions.  At least I got a little bit of an understanding of arrays and functions and how they work.  The end of the semester is coming soon, so I'll give it my best shot from here on out.
+<<<<<<< HEAD
 
 ![Live Sketch Link](https://jaketheflare.github.io/120-work/hw-10/)
+=======
+>>>>>>> 310cae9b00cc0be3baab48250922047b5534fec5
