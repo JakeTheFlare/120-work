@@ -9,4 +9,4 @@ I tried sharing some of my issues on the homework wiki, though not even my fello
 
 In conclusion, this was not a perfect week.  If only I took a little more time to read over and understand the math functions.  At least I got a little bit of an understanding of arrays and functions and how they work.  The end of the semester is coming soon, so I'll give it my best shot from here on out.
 
-![Lve Sketch Link](https://jaketheflare.github.io/120-work/hw-10/)
+![Live Sketch Link](https://jaketheflare.github.io/120-work/hw-10/)
